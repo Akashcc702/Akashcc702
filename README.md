@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🔮 WOW Feature 1: Animated Cyberpunk Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,24&height=220&section=header&text=Akash%20C%20C&fontSize=52&fontColor=38bdf8&animation=twinkling&subtext=BCA%20Data%20Science%20%7C%20AI%20%26%20Automation%20Architect&subfontSize=18&subfontColor=e2e8f0" width="100%" alt="Akash C C Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:0f172a,50:1e1b4b,100:0f172a&subfontColor=94a3b8&height=220&section=header&text=Akash%20C%20C&fontSize=52&fontColor=38bdf8&animation=twinkling&subtext=BCA%20Data%20Science%20%7C%20AI%20%26%20Automation%20Architect&subfontSize=18&subfontColor=e2e8f0" width="100%" alt="Akash C C Header" />
 
 <!-- Typing SVG Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there%2C+I+am+Akash+C+C;BCA+Data+Science+Student;AI+%26+Full+Stack+Web+Developer;Gemini+API+%26+Automation+Enthusiast;All+India+Yoga+Athlete+%26+Sportsman" alt="Typing SVG" />
