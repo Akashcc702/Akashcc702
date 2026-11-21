@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Akash+C+C+👋;BCA+Data+Science+Student+🎓;AI+%26+Full-Stack+Web+Developer+💻;Gemini+API+%26+Automation+Enthusiast+🤖;All-India+Yoga+Athlete+%26+Sportsman+🧘" alt="Typing SVG" />
+# 💫 Akash C C
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I+am+Akash+C+C;BCA+Data+Science+Student;AI+%26+Full+Stack+Web+Developer;Gemini+API+%26+Automation+Enthusiast;All+India+Yoga+Athlete+%26+Sportsman)
 
 <p align="center">
   <b>Passionate about building AI-powered web applications, automation bots, and data-driven solutions.</b>
@@ -23,7 +24,7 @@
 - 🎓 **Education:** Pursuing **BCA in Data Science** (2024–2027) at **University College of Science, Tumkur University**.
 - 💡 **Specialization:** Building production-grade AI platforms, serverless bots, and data intelligence pipelines.
 - 🚀 **Core Focus:** Integrating **Google Gemini API**, **Whisper transcription**, and **Cloudflare Workers** with full-stack web applications.
-- 🏅 **Beyond Code:** Represented **Tumkur University** in **All India-level Yoga Competition** (2025–2026) and active intercollegiate badminton player.
+- 🏅 **Beyond Code:** Represented **Tumkur University** in **All India-Level Yoga Competition** (2025–2026) and active intercollegiate badminton player.
 - 🎯 **Career Goal:** Aspiring AI/ML Engineer and Data Analyst open to impactful internships and tech opportunities.
 
 ---
@@ -121,12 +122,12 @@
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashcc702&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Akash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashcc702&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashcc702&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" width="48%" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashcc702&layout=compact&theme=tokyonight&border_radius=8" width="48%" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashcc702&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashcc702&theme=tokyonight&border_radius=8" width="97%" alt="GitHub Streak" />
 </div>
 
 ---
