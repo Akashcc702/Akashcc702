@@ -123,15 +123,20 @@
       <ul>
         <li>
           <b>Innovating with Google Cloud AI</b><br>
-          <i>Google Cloud</i> — Covers Generative AI fundamentals, vertex workflows, and scalable AI solutions.
+          <i>Google Cloud</i> — Generative AI fundamentals & vertex workflows.<br>
+          🔗 <a href="https://drive.google.com/file/d/1mP0fDke11ypc6jmMqDF1xEq9yujiHvFb/view?usp=sharing"><b>View Certificate ↗</b></a>
         </li>
+        <br>
         <li>
           <b>Machine Learning Using Python</b><br>
-          <i>Data Science / ML</i> — Supervised/unsupervised algorithms, model evaluation, and predictive pipelines.
+          <i>Data Science / ML</i> — Supervised & unsupervised predictive models.<br>
+          🔗 <a href="https://drive.google.com/file/d/1f4YexyFfjTnJnw1kP49AplaS9Aheu0yx/view?usp=sharing"><b>View Certificate ↗</b></a>
         </li>
+        <br>
         <li>
           <b>MS Office Suite & Productivity</b><br>
-          <i>Infosys Springboard</i> — Data modeling, advanced spreadsheet formulas, and business documentation.
+          <i>Infosys Springboard</i> — Data modeling & advanced business spreadsheets.<br>
+          🔗 <a href="https://drive.google.com/file/d/1SxS4hdte2XOV9n6djhyjnBjoOjUtRUKE/view?usp=sharing"><b>View Certificate ↗</b></a>
         </li>
       </ul>
     </td>
@@ -142,13 +147,15 @@
           <b>All India-Level Yoga Competition (2025–2026)</b><br>
           Proudly represented <b>Tumkur University</b> at the national collegiate championship.
         </li>
+        <br>
         <li>
           <b>Intercollegiate Badminton Competition</b><br>
           Represented <b>University College of Science, Tumakuru</b> in state-level university tournaments.
         </li>
+        <br>
         <li>
-          <b>Active Open-Source Builder</b><br>
-          <b>530+ Contributions</b> in the last year across 40+ repositories.
+          <b>Active Open-Source Contributor</b><br>
+          <b>540+ Contributions</b> in the last year across 40+ repositories.
         </li>
       </ul>
     </td>
@@ -159,14 +166,15 @@
 
 ## 📊 GitHub Analytics & Real-Time Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashcc702&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" width="48%" alt="Akash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashcc702&layout=compact&theme=tokyonight&border_radius=8" width="48%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashcc702&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" height="195" alt="Akash's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashcc702&layout=compact&theme=tokyonight&border_radius=8" height="195" alt="Top Languages" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashcc702&theme=tokyonight&border_radius=8" width="97%" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
