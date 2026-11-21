@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<a href="https://github.com/Akashcc702">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Akash+C+C+👋;BCA+Data+Science+Student+🎓;AI+%26+Full-Stack+Web+Developer+💻;Gemini+API+%26+Automation+Enthusiast+🤖;All-India+Yoga+Athlete+%26+Sportsman+🧘" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Akash+C+C+👋;BCA+Data+Science+Student+🎓;AI+%26+Full-Stack+Web+Developer+💻;Gemini+API+%26+Automation+Enthusiast+🤖;All-India+Yoga+Athlete+%26+Sportsman+🧘" alt="Typing SVG" />
 
 <p align="center">
   <b>Passionate about building AI-powered web applications, automation bots, and data-driven solutions.</b>
@@ -25,7 +23,7 @@
 - 🎓 **Education:** Pursuing **BCA in Data Science** (2024–2027) at **University College of Science, Tumkur University**.
 - 💡 **Specialization:** Building production-grade AI platforms, serverless bots, and data intelligence pipelines.
 - 🚀 **Core Focus:** Integrating **Google Gemini API**, **Whisper transcription**, and **Cloudflare Workers** with full-stack web applications.
-- 🏅 **Beyond Code:** Represented **Tumkur University** in **All India-level Yoga** (2025–2026) and active intercollegiate badminton player.
+- 🏅 **Beyond Code:** Represented **Tumkur University** in **All India-level Yoga Competition** (2025–2026) and active intercollegiate badminton player.
 - 🎯 **Career Goal:** Aspiring AI/ML Engineer and Data Analyst open to impactful internships and tech opportunities.
 
 ---
@@ -98,13 +96,13 @@
 
 <div align="center">
 
-| Project | Tech Stack | Highlights & Links |
+| Project | Tech Stack | Highlights & Repositories |
 | :--- | :--- | :--- |
-| **🌐 CC AI Platform** | `Python` `Gemini API` `Whisper` `Gunicorn` `Netlify` `Render` | Multimodal AI platform with image analysis, voice transcription, streaming responses, and session memory. <br>🔗 **[Live Demo](https://ccdev44.netlify.app/)** • **[Repository](https://github.com/Akashcc702/CC-AI0.2-Google-)** |
-| **🤖 WhatsApp & Telegram Automation Bots** | `Python` `Node.js` `Cloudflare Workers` `Gemini Flash` | AI-powered conversational bots with serverless webhooks, bilingual chat capability, and automated alerts. <br>🔗 **[Repository](https://github.com/Akashcc702/reels_downloader_bot1-4-26)** |
-| **⚡ Remote MCP Server** | `Python` `MCP Protocol` `Render` `Claude` `Antigravity` | High-efficiency Remote MCP Server for Claude and Antigravity deployed seamlessly on Render with zero-cost architecture. <br>🔗 **[Repository](https://github.com/Akashcc702/remote-mcp-server)** |
-| **🧠 MNIST Digit Recognizer & AI Image Studio** | `JavaScript` `Canvas` `Hugging Face` `Python` | Interactive browser-based handwritten digit classification + text-to-image generation pipeline. <br>🔗 **[MNIST Demo](https://github.com/Akashcc702/MNIST-model0.3)** • **[Image Gen](https://github.com/Akashcc702/cc_pic0.3-free-hf-)** |
-| **🎮 Interactive 3D Web & Game Graphics** | `JavaScript` `Three.js` `WebGL` `HTML5` | Real-time 3D room rendering and interactive college campus 3D experience. <br>🔗 **[3D Campus](https://github.com/Akashcc702/cc_ucst_3d)** • **[3D Game](https://github.com/Akashcc702/room-horror-game-3D-)** |
+| **🌐 CC AI Platform** | `Python` `Google Gemini API` `Whisper` `Gunicorn` `Netlify` `Render` | Full-stack multimodal AI platform with image analysis, Whisper voice transcription, streaming responses, and session memory.<br>🔗 **[Live Demo](https://ccdev44.netlify.app/)** • **[Frontend Repo](https://github.com/Akashcc702/CC-AI_frontend)** • **[Backend Repo](https://github.com/Akashcc702/nemotron-backend)** |
+| **🤖 WhatsApp & Telegram Automation Bots** | `Python` `Node.js` `Cloudflare Workers` `Gemini Flash API` | Serverless automation bots with Gemini Flash API for bilingual chat, personalized alerts, and instant media downloads.<br>🔗 **[Bot Repository](https://github.com/Akashcc702/reels_downloader_bot1-4-26)** • **[Telegram Poster](https://github.com/Akashcc702/YT_Best-ved_post_TB)** |
+| **⚡ Remote MCP Server** | `Python` `MCP Protocol` `Render` `Claude` `Antigravity` | Production-ready Remote MCP Server for Claude and Antigravity deployed on Render with zero cost.<br>🔗 **[Repository](https://github.com/Akashcc702/remote-mcp-server)** |
+| **🧠 MNIST Digit Classifier & AI Image Studio** | `JavaScript` `Canvas` `Hugging Face` `Python` | Interactive handwritten digit recognizer + text-to-image generator using Hugging Face pipelines.<br>🔗 **[MNIST Demo](https://github.com/Akashcc702/MNIST-model0.3)** • **[AI Studio](https://github.com/Akashcc702/cc_pic0.3-free-hf-)** |
+| **🎮 Interactive 3D Web & Game Graphics** | `JavaScript` `Three.js` `WebGL` `HTML5` | Real-time 3D interactive college campus model and browser-based 3D game environment.<br>🔗 **[3D Campus](https://github.com/Akashcc702/cc_ucst_3d)** • **[3D Game](https://github.com/Akashcc702/room-horror-game-3D-)** |
 
 </div>
 
@@ -123,12 +121,12 @@
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashcc702&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Akash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashcc702&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashcc702&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashcc702&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashcc702&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashcc702&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
 </div>
 
 ---
