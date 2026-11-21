@@ -167,9 +167,9 @@
 ## 📊 GitHub Analytics & Real-Time Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashcc702&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" height="195" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashcc702&show_icons=true&theme=tokyonight&border_radius=8&count_private=true&line_height=20" alt="Akash's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashcc702&layout=compact&theme=tokyonight&border_radius=8" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashcc702&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages" />
 </p>
 
 <p align="center">
