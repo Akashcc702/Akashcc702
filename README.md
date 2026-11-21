@@ -1,8 +1,10 @@
 <div align="center">
 
-# 💫 Akash C C
+<!-- 🔮 WOW Feature 1: Animated Cyberpunk Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,24&height=220&section=header&text=Akash%20C%20C&fontSize=52&fontColor=38bdf8&animation=twinkling&subtext=BCA%20Data%20Science%20%7C%20AI%20%26%20Automation%20Architect&subfontSize=18&subfontColor=e2e8f0" width="100%" alt="Akash C C Header" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there%2C+I+am+Akash+C+C;BCA+Data+Science+Student;AI+%26+Full+Stack+Web+Developer;Gemini+API+%26+Automation+Enthusiast;All+India+Yoga+Athlete+%26+Sportsman)
+<!-- Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there%2C+I+am+Akash+C+C;BCA+Data+Science+Student;AI+%26+Full+Stack+Web+Developer;Gemini+API+%26+Automation+Enthusiast;All+India+Yoga+Athlete+%26+Sportsman" alt="Typing SVG" />
 
 <p align="center">
   <b>Passionate about building AI-powered web applications, serverless automation bots, and data-driven solutions.</b>
@@ -102,13 +104,48 @@
 
 <div align="center">
 
-| Project | Tech Stack | Highlights & Architecture | Repositories & Demos |
-| :--- | :--- | :--- | :--- |
-| **🌐 CC AI Platform** | `Python` `Google Gemini API` `Whisper` `Gunicorn` `Netlify` `Render` | Full-stack multimodal AI platform featuring live image analysis, Whisper voice transcription, streaming responses, and session memory. | 🔗 **[Live Platform](https://ccdev44.netlify.app/)** <br>📂 **[Frontend Repo](https://github.com/Akashcc702/CC-AI_frontend)** <br>📂 **[Backend Repo](https://github.com/Akashcc702/nemotron-backend)** |
-| **🤖 WhatsApp & Telegram Automation Bots** | `Python` `Node.js` `Cloudflare Workers` `Gemini Flash API` | Serverless edge bots with Gemini Flash API for bilingual chat, personalized alerts, and instant media utilities. | 📂 **[Bot Repo](https://github.com/Akashcc702/reels_downloader_bot1-4-26)** <br>📂 **[Telegram Bot](https://github.com/Akashcc702/YT_Best-ved_post_TB)** |
-| **⚡ Remote MCP Server** | `Python` `MCP Protocol` `Render` `Claude` `Antigravity` | High-efficiency Remote Model Context Protocol Server for Claude & Antigravity deployed on Render (Zero-cost setup). | 📂 **[Server Repo](https://github.com/Akashcc702/remote-mcp-server)** |
-| **🧠 MNIST Digit Classifier & AI Image Studio** | `JavaScript` `Canvas` `Hugging Face` `Python` | Interactive handwritten digit classification in HTML5 Canvas + AI text-to-image generation pipeline via Hugging Face. | 📂 **[MNIST Canvas Demo](https://github.com/Akashcc702/MNIST-model0.3)** <br>📂 **[Image Gen Pipeline](https://github.com/Akashcc702/cc_pic0.3-free-hf-)** |
-| **🎮 Interactive 3D Web & Game Graphics** | `JavaScript` `Three.js` `WebGL` `HTML5` | Real-time interactive 3D college campus model and browser-based 3D environment using Three.js and WebGL. | 📂 **[3D Campus Walkthrough](https://github.com/Akashcc702/cc_ucst_3d)** <br>📂 **[3D Room Environment](https://github.com/Akashcc702/room-horror-game-3D-)** |
+<!-- 🚀 WOW Feature 2: Live Graphical Interactive Repository Cards -->
+
+<p align="center">
+  <a href="https://github.com/Akashcc702/nemotron-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akashcc702&repo=nemotron-backend&theme=tokyonight&border_radius=8" width="48%" alt="nemotron-backend card" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Akashcc702/CC-AI_frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akashcc702&repo=CC-AI_frontend&theme=tokyonight&border_radius=8" width="48%" alt="CC-AI_frontend card" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🌐 CC AI Platform Live:</b> <a href="https://ccdev44.netlify.app/"><b>Open ccdev44.netlify.app ↗</b></a> 
+  • <i>Multimodal AI platform with Gemini API, Whisper transcription & streaming responses</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Akashcc702/remote-mcp-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akashcc702&repo=remote-mcp-server&theme=tokyonight&border_radius=8" width="48%" alt="remote-mcp-server card" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Akashcc702/cc_ucst_3d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akashcc702&repo=cc_ucst_3d&theme=tokyonight&border_radius=8" width="48%" alt="cc_ucst_3d card" />
+  </a>
+</p>
+
+<p align="center">
+  <b>⚡ Cloud & 3D Engineering:</b> Remote MCP Server for Claude & Antigravity (Render) • 3D Interactive Campus Walkthrough (Three.js & WebGL)
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Project | Tech Stack | Highlights & Repositories |
+| :--- | :--- | :--- |
+| **🤖 WhatsApp & Telegram Automation Bots** | `Python` `Node.js` `Cloudflare Workers` `Gemini Flash API` | Serverless edge bots with Gemini Flash API for bilingual chat, personalized alerts, and instant media utilities.<br>📂 **[Bot Repo](https://github.com/Akashcc702/reels_downloader_bot1-4-26)** • **[Telegram Bot](https://github.com/Akashcc702/YT_Best-ved_post_TB)** |
+| **🧠 MNIST Digit Classifier & AI Image Studio** | `JavaScript` `Canvas` `Hugging Face` `Python` | Interactive handwritten digit classification in HTML5 Canvas + AI text-to-image generation pipeline via Hugging Face.<br>📂 **[MNIST Canvas Demo](https://github.com/Akashcc702/MNIST-model0.3)** • **[Image Gen Pipeline](https://github.com/Akashcc702/cc_pic0.3-free-hf-)** |
+| **🎮 Interactive 3D Web & Game Graphics** | `JavaScript` `Three.js` `WebGL` `HTML5` | Browser-based 3D room environment and game physics built with Three.js.<br>📂 **[3D Room Environment](https://github.com/Akashcc702/room-horror-game-3D-)** |
 
 </div>
 
@@ -178,15 +215,26 @@
 
 ---
 
-## 🐍 Automated Contribution Graph Snake
+<!-- 🏙️ WOW Feature 3: 3D Isometric Contribution Graph & Snake Combo -->
+## 🏙️ 3D Contribution Landscape & Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akashcc702/Akashcc702/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akashcc702/Akashcc702/main/profile-3d-contrib/profile-green.svg">
+    <img src="https://raw.githubusercontent.com/Akashcc702/Akashcc702/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution City" />
+  </picture>
+</div>
+
+<br>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akashcc702/Akashcc702/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akashcc702/Akashcc702/output/github-contribution-grid-snake.svg">
-    <img alt="Akash's contribution snake" src="https://raw.githubusercontent.com/Akashcc702/Akashcc702/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Akash's contribution snake" src="https://raw.githubusercontent.com/Akashcc702/Akashcc702/output/github-contribution-grid-snake-dark.svg" width="98%">
   </picture>
-  <p><i>Generated automatically twice a day via GitHub Actions</i></p>
+  <p><i>3D Isometric City & Contribution Snake generated automatically via GitHub Actions</i></p>
 </div>
 
 ---
